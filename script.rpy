@@ -8,16 +8,18 @@ define Snowy = Character ("Snowy")
 
 # The game starts here. :
 
- label start:
+label start:
 "I like big butts" 
 
 
 
- label sprites:
+label sprites:
+show snowymouth
 Snowy "Woah...WHo said that"
-show snowy mouth
-Snowy "I do not accsept such bad behavior"
+
 show snowy dead
+Snowy "I do not accsept such bad behavior"
+
+
 #the game ends
 return
-
